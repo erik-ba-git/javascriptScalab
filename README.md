@@ -1,0 +1,2 @@
+# javascriptScalab
+segunda tarea 'clases'
